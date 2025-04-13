@@ -1,4 +1,4 @@
-# Student Course Management System (SQL Mini Project)
+# Student Course Management System 
 
 This project demonstrates a simple SQL-based system to manage students, courses, and their enrollments.
 
